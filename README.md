@@ -1,5 +1,7 @@
 # Covid_data_analysis_using_Tableau
 
+Tableau public profile : https://public.tableau.com/profile/azmina.vanzara
+
 1st Dasboard : Covid 19 India Data Analysis
 
 ![Dasboard1](https://user-images.githubusercontent.com/64145252/115123347-98099480-9f8a-11eb-9565-d1c3daed4a5c.png)
